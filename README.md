@@ -1,3 +1,3 @@
-changing first line in feature branch
+changing first line in main branch
 
 Added from feature1 branch
